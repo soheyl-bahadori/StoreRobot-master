@@ -1,0 +1,112 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Asset 12123.ico</ApplicationIcon>
+    <AssemblyName>Rahkar Mofid</AssemblyName>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Asset 12123.ico" />
+    <None Remove="Assets\Big X.png" />
+    <None Remove="Assets\Check box tick.png" />
+    <None Remove="Assets\Empty Close.png" />
+    <None Remove="Assets\Empty Minimize.png" />
+    <None Remove="Assets\Fill close.png" />
+    <None Remove="Assets\Fill Minimize.png" />
+    <None Remove="Assets\Green Tick.png" />
+    <None Remove="Assets\Logo.png" />
+    <None Remove="Assets\main Window bg.jpg" />
+    <None Remove="Assets\Notice.png" />
+    <None Remove="Assets\Orange Horizontal bg.jpg" />
+    <None Remove="Assets\Orange Vertical bg.jpg" />
+    <None Remove="Assets\Popup bg.jpg" />
+    <None Remove="Assets\Red bg.jpg" />
+    <None Remove="Assets\Red X.png" />
+    <None Remove="Assets\Subsidiary bg.jpg" />
+    <None Remove="Assets\Warning Icon.png" />
+    <None Remove="credentials.json" />
+    <None Remove="Fonts\Myriad Arabic Bold.ttf" />
+    <None Remove="Fonts\Myriad Arabic Regular.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Asset 12123.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Assets\Big X.png" />
+    <Resource Include="Assets\Red bg.jpg" />
+    <Resource Include="Assets\Warning Icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="credentials.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetSeleniumExtras.WaitHelpers" Version="3.11.0" />
+    <PackageReference Include="Google.Apis.Sheets.v4" Version="1.57.0.2637" />
+    <PackageReference Include="MailKit" Version="4.5.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="MimeKit" Version="4.5.0" />
+    <PackageReference Include="Selenium.WebDriver" Version="4.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Check box tick.png" />
+    <Resource Include="Assets\Empty Close.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Fill Close.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Fill Minimize.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Empty Minimize.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Green Tick.png" />
+    <Resource Include="Assets\Logo.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\main Window bg.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Notice.png" />
+    <Resource Include="Assets\Orange Horizontal bg.jpg" />
+    <Resource Include="Assets\Orange Vertical bg.jpg" />
+    <Resource Include="Assets\Popup bg.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Red X.png" />
+    <Resource Include="Assets\Subsidiary bg.jpg" />
+    <Resource Include="Fonts\Myriad Arabic Bold.ttf" />
+    <Resource Include="Fonts\Myriad Arabic Regular.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

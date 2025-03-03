@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "StoreRobot": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "authenticationMode": "Windows",
+      "remoteDebugMachine": "SRV196522:4026",
+      "nativeDebugging": false
+    }
+  }
+}
