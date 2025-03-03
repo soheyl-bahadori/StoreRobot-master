@@ -1,0 +1,50 @@
+[
+    {
+        "order_item_id": 658439362345,
+        "order_id": 209935051,
+        "variant": {
+            "id": 42555780,
+            "seller_id": 8633,
+            "site": "digikala",
+            "is_active": true,
+            "is_archived": false,
+            "title": "\u0634\u0645\u0639 \u0645\u06cc\u0644\u0627\u062f \u0645\u062f\u0644 \u0642\u0644\u0645\u06cc \u0628\u0633\u062a\u0647 2 \u0639\u062f\u062f\u06cc | \u0646\u0642\u0631\u0647 \u0627\u06cc | \u06af\u0627\u0631\u0627\u0646\u062a\u06cc \u0627\u0635\u0627\u0644\u062a \u0648 \u0633\u0644\u0627\u0645\u062a \u0641\u06cc\u0632\u06cc\u06a9\u06cc \u06a9\u0627\u0644\u0627",
+            "product": {
+                "id": 3963941,
+                "category_id": 6311,
+                "title": "\u0634\u0645\u0639 \u0645\u06cc\u0644\u0627\u062f \u0645\u062f\u0644 \u0642\u0644\u0645\u06cc \u0628\u0633\u062a\u0647 2 \u0639\u062f\u062f\u06cc",
+                "shipping_nature_id": 1
+            },
+            "shipping_type": "both",
+            "supplier_code": "R7231319",
+            "dk_lead_time": 1,
+            "sbs_lead_time": 4,
+            "stock": {
+                "in_the_way": 0,
+                "in_digikala_warehouse": 1,
+                "in_seller_warehouse": 48,
+                "reserved_stocks": {
+                    "seller": 0,
+                    "digikala": 2
+                }
+            },
+            "price": {
+                "id": 1688726689,
+                "selling_price": 350000,
+                "rrp_price": 350000,
+                "discount": 0,
+                "order_limit": 15,
+                "is_promotion_price": false,
+                "tags": null
+            }
+        },
+        "quantity": 1,
+        "shipping_type": "digikala",
+        "order_status": "warehouse",
+        "selling_price": 335668,
+        "created_at": "2023-08-13 16:51:09",
+        "cart_closed_at": "2023-08-13 16:51:09",
+        "shipment_status": "pending",
+        "commitment_date": "2023-08-14 00:00:00"
+    }
+]

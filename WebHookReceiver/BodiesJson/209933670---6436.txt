@@ -1,0 +1,50 @@
+[
+    {
+        "order_item_id": 6584348256,
+        "order_id": 209933670,
+        "variant": {
+            "id": 39001276,
+            "seller_id": 8633,
+            "site": "digikala",
+            "is_active": true,
+            "is_archived": false,
+            "title": "\u0698\u0644 \u0645\u0631\u0637\u0648\u0628 \u06a9\u0646\u0646\u062f\u0647 \u0633\u06cc\u0646\u0631\u0647 \u0645\u062f\u0644 \u0622\u0644\u0648\u0626\u0647 \u0648\u0631\u0627 \u062d\u062c\u0645 100 \u0645\u06cc\u0644\u06cc \u0644\u06cc\u062a\u0631 | \u0633\u0631\u0648\u06cc\u0633 \u0648\u06cc\u0698\u0647 \u062f\u06cc\u062c\u06cc \u06a9\u0627\u0644\u0627: 7 \u0631\u0648\u0632 \u062a\u0636\u0645\u06cc\u0646 \u0628\u0627\u0632\u06af\u0634\u062a \u06a9\u0627\u0644\u0627",
+            "product": {
+                "id": 9053678,
+                "category_id": 6489,
+                "title": "\u0698\u0644 \u0645\u0631\u0637\u0648\u0628 \u06a9\u0646\u0646\u062f\u0647 \u0633\u06cc\u0646\u0631\u0647 \u0645\u062f\u0644 \u0622\u0644\u0648\u0626\u0647 \u0648\u0631\u0627 \u062d\u062c\u0645 100 \u0645\u06cc\u0644\u06cc \u0644\u06cc\u062a\u0631",
+                "shipping_nature_id": 1
+            },
+            "shipping_type": "both",
+            "supplier_code": "R6260374050221",
+            "dk_lead_time": 1,
+            "sbs_lead_time": 3,
+            "stock": {
+                "in_the_way": 0,
+                "in_digikala_warehouse": 0,
+                "in_seller_warehouse": 15,
+                "reserved_stocks": {
+                    "seller": 0,
+                    "digikala": 3
+                }
+            },
+            "price": {
+                "id": 1609342310,
+                "selling_price": 470000,
+                "rrp_price": 550000,
+                "discount": 0,
+                "order_limit": 10,
+                "is_promotion_price": false,
+                "tags": null
+            }
+        },
+        "quantity": 1,
+        "shipping_type": "digikala",
+        "order_status": "warehouse",
+        "selling_price": 470000,
+        "created_at": "2023-08-13 16:38:23",
+        "cart_closed_at": "2023-08-13 16:38:23",
+        "shipment_status": "pending",
+        "commitment_date": "2023-08-14 00:00:00"
+    }
+]
