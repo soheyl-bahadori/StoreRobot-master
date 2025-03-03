@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreRobot", "StoreRobot\StoreRobot.csproj", "{56C13675-4AA8-44BD-9CA9-4BA82D442E6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebHookReceiver", "WebHookReceiver\WebHookReceiver.csproj", "{D0AE1BEC-31D1-4B6E-B1F8-36C4E6CE9F1C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestRobot", "TestRobot\TestRobot.csproj", "{C9E0E5DA-CB6F-4602-8477-ACBFBB67C490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelUpdater", "ExcelUpdater\ExcelUpdater.csproj", "{97A1BD66-BA97-4039-9D0C-646E58C7FADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56C13675-4AA8-44BD-9CA9-4BA82D442E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C13675-4AA8-44BD-9CA9-4BA82D442E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C13675-4AA8-44BD-9CA9-4BA82D442E6D}.Debug|x64.ActiveCfg = Debug|x64
+		{56C13675-4AA8-44BD-9CA9-4BA82D442E6D}.Debug|x64.Build.0 = Debug|x64
+		{56C13675-4AA8-44BD-9CA9-4BA82D442E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C13675-4AA8-44BD-9CA9-4BA82D442E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C13675-4AA8-44BD-9CA9-4BA82D442E6D}.Release|x64.ActiveCfg = Release|x64
+		{56C13675-4AA8-44BD-9CA9-4BA82D442E6D}.Release|x64.Build.0 = Release|x64
+		{D0AE1BEC-31D1-4B6E-B1F8-36C4E6CE9F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AE1BEC-31D1-4B6E-B1F8-36C4E6CE9F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AE1BEC-31D1-4B6E-B1F8-36C4E6CE9F1C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D0AE1BEC-31D1-4B6E-B1F8-36C4E6CE9F1C}.Debug|x64.Build.0 = Debug|Any CPU
+		{D0AE1BEC-31D1-4B6E-B1F8-36C4E6CE9F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AE1BEC-31D1-4B6E-B1F8-36C4E6CE9F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0AE1BEC-31D1-4B6E-B1F8-36C4E6CE9F1C}.Release|x64.ActiveCfg = Release|Any CPU
+		{D0AE1BEC-31D1-4B6E-B1F8-36C4E6CE9F1C}.Release|x64.Build.0 = Release|Any CPU
+		{C9E0E5DA-CB6F-4602-8477-ACBFBB67C490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E0E5DA-CB6F-4602-8477-ACBFBB67C490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E0E5DA-CB6F-4602-8477-ACBFBB67C490}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C9E0E5DA-CB6F-4602-8477-ACBFBB67C490}.Debug|x64.Build.0 = Debug|Any CPU
+		{C9E0E5DA-CB6F-4602-8477-ACBFBB67C490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E0E5DA-CB6F-4602-8477-ACBFBB67C490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E0E5DA-CB6F-4602-8477-ACBFBB67C490}.Release|x64.ActiveCfg = Release|Any CPU
+		{C9E0E5DA-CB6F-4602-8477-ACBFBB67C490}.Release|x64.Build.0 = Release|Any CPU
+		{97A1BD66-BA97-4039-9D0C-646E58C7FADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A1BD66-BA97-4039-9D0C-646E58C7FADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A1BD66-BA97-4039-9D0C-646E58C7FADF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{97A1BD66-BA97-4039-9D0C-646E58C7FADF}.Debug|x64.Build.0 = Debug|Any CPU
+		{97A1BD66-BA97-4039-9D0C-646E58C7FADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A1BD66-BA97-4039-9D0C-646E58C7FADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A1BD66-BA97-4039-9D0C-646E58C7FADF}.Release|x64.ActiveCfg = Release|Any CPU
+		{97A1BD66-BA97-4039-9D0C-646E58C7FADF}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61D35634-C0BF-4CEE-9397-8FD63029257A}
+	EndGlobalSection
+EndGlobal
