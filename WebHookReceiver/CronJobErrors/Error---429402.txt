@@ -1,0 +1,3 @@
+System.InvalidCastException: Unable to cast object of type 'WebHookReceiver.Models.Result' to type 'System.IConvertible'.
+   at System.Convert.ToInt32(Object value)
+   at WebHookReceiver.Services.CheckDigiOrdersCronJob.DoWork(CancellationToken cancellationToken)
