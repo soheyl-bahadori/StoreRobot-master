@@ -1,0 +1,1 @@
+{"safirPriceInOff":28230,"guarantee":"","isPakhshChanged":true,"isSafirChanged":true,"expiryDate":"","isDigiChanged":true,"isPakhshOff":true,"dkpc":"37934803","price":75000,"stock":36,"sku":"R36496","isSafirOff":false,"pakhshPriceInOff":26730}
