@@ -1,0 +1,1 @@
+{"safirPriceInOff":28230,"guarantee":"اصالت و سلامت فیزیکی کالا","isPakhshChanged":true,"isSafirChanged":true,"expiryDate":"","isDigiChanged":true,"isPakhshOff":true,"dkpc":"4574713","price":75000,"stock":36,"sku":"R3487","isSafirOff":false,"pakhshPriceInOff":26730}
