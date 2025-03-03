@@ -1,0 +1,294 @@
+{
+    "id": 155238,
+    "parent_id": 0,
+    "status": "processing",
+    "currency": "IRT",
+    "version": "8.0.1",
+    "prices_include_tax": false,
+    "date_created": "2023-08-14T17:18:53",
+    "date_modified": "2023-08-14T17:20:17",
+    "discount_total": "0",
+    "discount_tax": "0",
+    "shipping_total": "55000",
+    "shipping_tax": "0",
+    "cart_tax": "0",
+    "total": "4375000",
+    "total_tax": "0",
+    "customer_id": 10440,
+    "order_key": "wc_order_FBJg7CNRZblQv",
+    "billing": {
+        "first_name": "\u0635\u0627 \u0645\u06cc\u0631\u0632\u0627",
+        "last_name": "\u0645\u06cc\u0631\u0632\u0627",
+        "company": "",
+        "address_1": "\u0628\u0644\u0648\u0627\u0631 \u0622\u06cc\u062a \u0627... \u06a9\u0627\u0634\u0627\u0646\u06cc \u062e \u0634\u0647\u06cc\u062f \u0645\u0639\u06cc\u0631\u06cc \u067e6 \u0645\u062c\u062a\u0645\u0639 \u0628\u0631\u0644\u06cc\u0627\u0646",
+        "address_2": "\u06373 \u0648\u0627\u062d\u062f 11",
+        "city": "\u062a\u0647\u0631\u0627\u0646",
+        "state": "\u062a\u0647\u0631\u0627\u0646",
+        "postcode": "1471676814",
+        "country": "IR",
+        "email": "",
+        "phone": "9191556872"
+    },
+    "shipping": {
+        "first_name": "\u0635\u0627 \u0645\u06cc\u0631\u0632\u0627",
+        "last_name": "\u0645\u06cc\u0631\u0632\u0627",
+        "company": "",
+        "address_1": "\u0628\u0644\u0648\u0627\u0631 \u0622\u06cc\u062a \u0627... \u06a9\u0627\u0634\u0627\u0646\u06cc \u062e \u0634\u0647\u06cc\u062f \u0645\u0639\u06cc\u0631\u06cc \u067e6 \u0645\u062c\u062a\u0645\u0639 \u0628\u0631\u0644\u06cc\u0627\u0646",
+        "address_2": "\u06373 \u0648\u0627\u062d\u062f 11",
+        "city": "\u062a\u0647\u0631\u0627\u0646",
+        "state": "\u062a\u0647\u0631\u0627\u0646",
+        "postcode": "1471676814",
+        "country": "IR",
+        "phone": ""
+    },
+    "payment_method": "WC_SamanKish",
+    "payment_method_title": "\u0633\u0627\u0645\u0627\u0646 \u06a9\u06cc\u0634",
+    "transaction_id": "307234",
+    "customer_ip_address": "91.98.131.38",
+    "customer_user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/115.0.0.0 Safari\/537.36",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": null,
+    "date_paid": "2023-08-14T17:20:17",
+    "cart_hash": "7c0be1e0e88788e7e7848e5a65bd3739",
+    "number": "155236",
+    "meta_data": [
+        {
+            "id": 19975617,
+            "key": "_billing_receiving_invoice",
+            "value": "1"
+        },
+        {
+            "id": 19975618,
+            "key": "_billing_district",
+            "value": ""
+        },
+        {
+            "id": 19975619,
+            "key": "_shipping_mobile",
+            "value": ""
+        },
+        {
+            "id": 19975620,
+            "key": "_shipping_district",
+            "value": ""
+        },
+        {
+            "id": 19975621,
+            "key": "is_vat_exempt",
+            "value": "no"
+        },
+        {
+            "id": 19975622,
+            "key": "_force_enable_buyer",
+            "value": "no"
+        },
+        {
+            "id": 19975623,
+            "key": "_allow_buyer_select_status",
+            "value": "no"
+        },
+        {
+            "id": 19975624,
+            "key": "_billing_state_id",
+            "value": "17492"
+        },
+        {
+            "id": 19975625,
+            "key": "_billing_city_id",
+            "value": "17502"
+        },
+        {
+            "id": 19975626,
+            "key": "_shipping_state_id",
+            "value": "17492"
+        },
+        {
+            "id": 19975627,
+            "key": "_shipping_city_id",
+            "value": "17502"
+        },
+        {
+            "id": 19975628,
+            "key": "_fue_recorded",
+            "value": "1"
+        },
+        {
+            "id": 19975645,
+            "key": "WC_SamanKish_OID",
+            "value": "1692020959"
+        },
+        {
+            "id": 19975646,
+            "key": "WC_SamanKish_RefNum",
+            "value": "GmshtyjwKSu9PCy1yV6NUV3eSu52WGq1u8i+D40YKz"
+        },
+        {
+            "id": 19975647,
+            "key": "CardHolderPan",
+            "value": "636214****5518"
+        },
+        {
+            "id": 19975648,
+            "key": "WC_SamanKish_TRACENO",
+            "value": "22567300549"
+        },
+        {
+            "id": 19975649,
+            "key": "SMN_OrginalAmount",
+            "value": "43750000"
+        },
+        {
+            "id": 19975650,
+            "key": "SMN_StraceNo",
+            "value": "307234"
+        },
+        {
+            "id": 19975651,
+            "key": "PrimaryAccNo",
+            "value": "636214******5518"
+        },
+        {
+            "id": 19975655,
+            "key": "_fue_conversion",
+            "value": "106756"
+        },
+        {
+            "id": 19975656,
+            "key": "_order_status_emails_queued",
+            "value": "1"
+        },
+        {
+            "id": 19975657,
+            "key": "PrimaryAccNoStatus",
+            "value": "1"
+        },
+        {
+            "id": 19975658,
+            "key": "_ga_tracked",
+            "value": "1"
+        },
+        {
+            "id": 19975659,
+            "key": "resultAddParcel",
+            "value": "Message Add Product Succ:->1"
+        },
+        {
+            "id": 19975660,
+            "key": "resultAddParcel",
+            "value": "Product ID:->2601500"
+        },
+        {
+            "id": 19975661,
+            "key": "resultAddParcel",
+            "value": "City code was not found:->empty"
+        },
+        {
+            "id": 19975662,
+            "key": "wip_cart_price",
+            "value": {
+                "150094": {
+                    "regular_price": "2880000",
+                    "sale_price": ""
+                },
+                "150033": {
+                    "regular_price": "480000",
+                    "sale_price": ""
+                }
+            }
+        },
+        {
+            "id": 19975663,
+            "key": "referral_done",
+            "value": "yes"
+        }
+    ],
+    "line_items": [
+        {
+            "id": 14202,
+            "name": "\u0627\u06a9\u062a\u0627\u0646 \u0628\u0648\u0633\u062a\u0631 \u06af\u0627\u062a \u0645\u062f\u0644 8point \u062d\u062c\u0645 300 \u0645\u06cc\u0644\u06cc \u0644\u06cc\u062a\u0631 \u0645\u062c\u0645\u0648\u0639\u0647 6 \u0639\u062f\u062f\u06cc",
+            "product_id": 150094,
+            "variation_id": 0,
+            "quantity": 1,
+            "tax_class": "",
+            "subtotal": "2880000",
+            "subtotal_tax": "0",
+            "total": "2880000",
+            "total_tax": "0",
+            "taxes": [],
+            "meta_data": [
+                {
+                    "id": 112202,
+                    "key": "_reduced_stock",
+                    "value": "1",
+                    "display_key": "_reduced_stock",
+                    "display_value": "1"
+                }
+            ],
+            "sku": "R62601560011060",
+            "price": 2880000,
+            "image": {
+                "id": "150106",
+                "src": "https:\/\/www.safirkala.com\/wp-content\/uploads\/2023\/07\/2-17.jpg"
+            },
+            "parent_name": null
+        }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [
+        {
+            "id": 14204,
+            "method_title": "\u067e\u0633\u062a \u067e\u06cc\u0634\u062a\u0627\u0632 \u0648 \u0628\u0633\u062a\u0647 \u0628\u0646\u062f\u06cc (\u062a\u0627 2 \u06a9\u06cc\u0644\u0648)",
+            "method_id": "flat_rate",
+            "instance_id": "35",
+            "total": "55000",
+            "total_tax": "0",
+            "taxes": [],
+            "meta_data": [
+                {
+                    "id": 112200,
+                    "key": "\u0622\u06cc\u062a\u0645\u200c\u0647\u0627",
+                    "value": "\u0627\u06a9\u062a\u0627\u0646 \u0628\u0648\u0633\u062a\u0631 \u06af\u0627\u062a \u0645\u062f\u0644 8point \u062d\u062c\u0645 300 \u0645\u06cc\u0644\u06cc \u0644\u06cc\u062a\u0631 \u0645\u062c\u0645\u0648\u0639\u0647 6 \u0639\u062f\u062f\u06cc &times; 1, \u0627\u06a9\u062a\u0627\u0646 \u0628\u0648\u0633\u062a\u0631 \u06af\u0627\u062a \u0645\u062f\u0644 8point \u062d\u062c\u0645 300 \u0645\u06cc\u0644\u06cc \u0644\u06cc\u062a\u0631 &times; 3",
+                    "display_key": "\u0622\u06cc\u062a\u0645\u200c\u0647\u0627",
+                    "display_value": "\u0627\u06a9\u062a\u0627\u0646 \u0628\u0648\u0633\u062a\u0631 \u06af\u0627\u062a \u0645\u062f\u0644 8point \u062d\u062c\u0645 300 \u0645\u06cc\u0644\u06cc \u0644\u06cc\u062a\u0631 \u0645\u062c\u0645\u0648\u0639\u0647 6 \u0639\u062f\u062f\u06cc &times; 1, \u0627\u06a9\u062a\u0627\u0646 \u0628\u0648\u0633\u062a\u0631 \u06af\u0627\u062a \u0645\u062f\u0644 8point \u062d\u062c\u0645 300 \u0645\u06cc\u0644\u06cc \u0644\u06cc\u062a\u0631 &times; 3"
+                },
+                {
+                    "id": 112201,
+                    "key": "disable_wcdt",
+                    "value": "no",
+                    "display_key": "disable_wcdt",
+                    "display_value": "no"
+                }
+            ]
+        }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "payment_url": "https:\/\/www.safirkala.com\/checkout\/order-pay\/155236\/?pay_for_order=true&key=wc_order_FBJg7CNRZblQv",
+    "is_editable": false,
+    "needs_payment": false,
+    "needs_processing": true,
+    "date_created_gmt": "2023-08-14T13:48:53",
+    "date_modified_gmt": "2023-08-14T13:50:17",
+    "date_completed_gmt": null,
+    "date_paid_gmt": "2023-08-14T13:50:17",
+    "currency_symbol": "\u062a\u0648\u0645\u0627\u0646",
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/www.safirkala.com\/wp-json\/wc\/v3\/orders\/155236"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/www.safirkala.com\/wp-json\/wc\/v3\/orders"
+            }
+        ],
+        "customer": [
+            {
+                "href": "https:\/\/www.safirkala.com\/wp-json\/wc\/v3\/customers\/10440"
+            }
+        ]
+    }
+}

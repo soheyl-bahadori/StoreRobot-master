@@ -1,0 +1,3 @@
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at StoreRobot.Utils.GoogleSheetApi.EditStockQuantityCell(String productId, Int32 triggerValue, Boolean isDkpc) in D:\repos\StoreRobot\WebHookReceiver\Models\GoogleSheetApi.cs:line 76
+   at WebHookReceiver.Controllers.MainController.<>c__DisplayClass0_0.<<SafirOrderEdited>b__0>d.MoveNext() in D:\repos\StoreRobot\WebHookReceiver\Controllers\MainController.cs:line 81
